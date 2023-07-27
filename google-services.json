@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887202519021",
+    "project_id": "tubeguruji-app",
+    "storage_bucket": "tubeguruji-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887202519021:android:31ae95fe85813f79f979e4",
+        "android_client_info": {
+          "package_name": "com.tubeguruji.codebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887202519021-2dea39f983qf2h2sl90ru32048s8gb60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFgrivo6_Va0_t8BS8Mi2rfuFCC9cduQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887202519021-11851hl38v45bevdh1n29tqukd72h7gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
